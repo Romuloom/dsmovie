@@ -1,7 +1,5 @@
 package com.devsuperior.dsmovie.services;
 
-import java.util.List;
-
 
 
 import org.springframework.beans.factory.annotation.Autowired;
